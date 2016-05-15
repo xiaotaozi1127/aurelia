@@ -8,6 +8,9 @@
     "beginner",
     "skeleton"
   ],
+  "scripts": {
+    "server": "http-server -o -c-1"   
+  },
   "homepage": "http://aurelia.io",
   "license": "CC0-1.0",
   "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
